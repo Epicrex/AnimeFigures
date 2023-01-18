@@ -22,7 +22,8 @@ licensed figures which are sold to collectors or vendors under the guise of the 
 Proxy Shipper:
 ```
 Proxy-buying means shopping using a third-party to purchase an item on your behalf.
-They buy the item and ship it to you in exchange for a fee. The proxy shipper needs to be in the country of the product for it to work.
+They buy the item and ship it to you in exchange for a fee.
+The proxy shipper needs to be in the country of the product for it to work.
 ```
 
 
