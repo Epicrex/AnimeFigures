@@ -9,7 +9,7 @@
 
 # General [^](#Table-Of-Contents)
 
-|[MyFigureCollection](https://myfigurecollection.net/) is a anime figure collecting community where people share imags of their figures. It is also a data base for figures and can help with finding new figures or even aid in avoiding bootlegs.
+[MyFigureCollection](https://myfigurecollection.net/) is an anime figure collecting community where people share imags of their figures. It is also a data base for figures and can help with finding new figures or even aid in avoiding bootlegs.
 
 # Some Terms [^](#Table-Of-Contents)
 Bootleg
