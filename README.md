@@ -12,9 +12,18 @@
 [MyFigureCollection](https://myfigurecollection.net/) is an anime figure collecting community where people share imags of their figures. It is also a data base for figures and can help with finding new figures or even aid in avoiding bootlegs.
 
 # Some Terms [^](#Table-Of-Contents)
-Bootleg
+Bootleg:
+```
+"Simply put, a bootleg is a figure that does not have any proper licensing or approval.
+Generally, bootlegs are copycats (normally of lesser quality) of actual,
+licensed figures which are sold to collectors or vendors under the guise of the legitimate figure."
+```
 
-Proxy Shipper
+Proxy Shipper:
+```
+Proxy-buying means shopping using a third-party to purchase an item on your behalf.
+They buy the item and ship it to you in exchange for a fee. The proxy shipper needs to be in the country of the product for it to work.
+```
 
 
 # Where To Buy Figures? [^](#Table-Of-Contents)
@@ -59,7 +68,7 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 
 
 # Proxy Shipper [^](#Table-Of-Contents)
-Sometimes stores in japan don't ship anywhere else and a proxy shipper is needed. Some good options for proxy shippers are:
+Sometimes stores in japan don't ship anywhere else and a proxy shipper is needed. Some good options for proxy shippers (that can ship from japan) are:
 
 - https://zenmarket.jp/de/
 
