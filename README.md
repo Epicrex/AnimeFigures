@@ -1,1 +1,56 @@
-# AnimeFigures
+## Channels
+- https://www.youtube.com/channel/UCZBQ82XvDAtOyDXaUOrmaOw
+- https://www.youtube.com/watch?v=ycGDR752fT0
+- https://www.youtube.com/channel/UCRuGf5hzsx3-hoMm1MTU1xw
+- https://www.youtube.com/c/JennySupremo/videos
+- https://www.youtube.com/c/KenKen004
+## Resource Pages
+
+## Websites to buy finished Figures
+- [AmiAmi](https://www.amiami.com/eng/) (Buy)
+
+<details>
+<summary>More AmiAmi Info</summary>
+
+Order system is very bad, make sure things are really in the order basket/ are ordered. If other users buy a figure it can be taken from you when in your basket. Package tracking updates are also bad.
+
+</details>
+
+- [Hobby Galaxy](https://www.hobbygalaxy.com/)
+- [Playasia](https://www.play-asia.com/toys/figures/14/719k)
+- [MyFigureCollection](https://myfigurecollection.net/) (Figure DB)
+- [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/)
+- https://www.suruga-ya.jp/
+- [Ukiyo Kumo](https://ukiyokumo.com/)
+- [Akiba Soul](https://www.akibasoul.com/)
+- [Solaris Japan](https://solarisjapan.com/)
+- [Good Smile Online Shop](https://goodsmileshop.com/en/)
+- [S.P.A.C.E](https://www.space-figuren.de/Animes-Mangas:::4685.html)
+- [SU GO toys](https://sugotoys.com.au/shop/?filter_types=pvc-figure)
+- [Navito World](https://www.navitoworld.com/collections)
+- [Riot Games Figures](https://merch.riotgames.com/en-gb/category/collectibles?product_limit=54)
+- [Anime Figure](https://anime-figure.com/figures)
+- [Ebay](https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=anime+figures&_sacat=0&LH_TitleDesc=0&_odkw=animefigures&_osacat=0) (bootleg risky)
+- [Amazon](https://www.amazon.de) (bootleg risky)
+- Don't use Ali Express!
+
+
+Sometimes stores are in japan and a proxy shipper is needed. Some good options for proxy shippers are:
+
+(100€ = 105$ = 13.772¥)
+- https://zenmarket.jp/de/
+
+## How to Identify Bootleg Figures
+### Tips
+- Look the figure up on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) and see if it says "Warning: a counterfeit version of this item exists"
+- Check if images look like the originals, to find original images look on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) for example
+- Check if title or description of figure has any mistakes. Look for things like company name in title and be wary of generic anime figure text
+- Make sure the price isn't to low vs the normal price of the figure
+- Check location of figure, high chance bootleg regions are: China, Hong Kong, Taiwan
+- Make sure seller has good ratings
+- Real figures always come in a figure box
+### Videos
+- [How to Identify Bootleg Anime Figures](https://www.youtube.com/watch?v=kLjDr555yfE)
+- [REAL vs. FAKE Anime Figures](https://www.youtube.com/watch?v=nl9XX6j-Bjk)
+### Articles
+- [Ultimate Guide to Bootlegs](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures#:~:text=Look%20for%20stripes%20or%20for,known%20bootleg%20of%20the%20figure.)
