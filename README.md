@@ -1,5 +1,9 @@
 # Table Of Contents
 
+- [Some Terms](#some-terms-)
+- [Where To Buy Figures?](#where-to-buy-figures-)
+- [How to Identify Bootleg Figures?](#how-to-identify-bootleg-figures-)
+- [Proxy Shipper](#proxy-shipper-)
 
 
 # Some Terms [^](#Table-Of-Contents)
@@ -15,7 +19,7 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 
 |Sites|Info
 |:-:|:-:
-|[AmiAmi](https://www.amiami.com/eng/) (Buy)|✅Though the website can be quite buggy and orders taking quite long to ship, it still is one of the better places to get figures
+|[AmiAmi](https://www.amiami.com/eng/) (Buy)|✅Though the website can be quite buggy and orders taking quite long to ship, it still is one of the better places to get figures. (In particular watch out for the order system. Make sure things are really in the order basket/ are ordered. And if other users buy a figure it can be taken from your basket. Package tracking updates are also bad.)
 |[Hobby Galaxy](https://www.hobbygalaxy.com/)|
 |[Playasia](https://www.play-asia.com/toys/figures/14/719k)|
 |https://www.suruga-ya.jp/|
@@ -31,6 +35,22 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 |[Ebay](https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=anime+figures&_sacat=0&LH_TitleDesc=0&_odkw=animefigures&_osacat=0)|Bootleg risky
 |[Amazon](https://www.amazon.de)|Bootleg risky
 |Ali Express|⛔ Stay away! Almost all figures from here are terrile quality bootlegs
+
+
+# How to Identify Bootleg Figures?
+### Tips
+- Look the figure up on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) and see if it says "Warning: a counterfeit version of this item exists"
+- Check if images look like the originals, to find original images look on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) for example
+- Check if title or description of figure has any mistakes. Look for things like company name in title and be wary of generic anime figure text
+- Make sure the price isn't to low vs the normal price of the figure
+- Check location of figure, high chance bootleg regions are: China, Hong Kong, Taiwan
+- Make sure seller has good ratings
+- Real figures always come in a figure box
+### Videos
+- [How to Identify Bootleg Anime Figures](https://www.youtube.com/watch?v=kLjDr555yfE)
+- [REAL vs. FAKE Anime Figures](https://www.youtube.com/watch?v=nl9XX6j-Bjk)
+### Articles
+- [Ultimate Guide to Bootlegs](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures#:~:text=Look%20for%20stripes%20or%20for,known%20bootleg%20of%20the%20figure.)
 
 
 # Proxy Shipper [^](#Table-Of-Contents)
@@ -53,29 +73,4 @@ _Currency Coversion: 100€ = 105$ = 13.772¥_
 ## Websites to buy finished Figures
 
 
-<details>
-<summary>More AmiAmi Info</summary>
-
-Order system is very bad, make sure things are really in the order basket/ are ordered. If other users buy a figure it can be taken from you when in your basket. Package tracking updates are also bad.
-
-</details>
-
-
 |[MyFigureCollection](https://myfigurecollection.net/) (Figure DB)|
-
-
-
-## How to Identify Bootleg Figures
-### Tips
-- Look the figure up on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) and see if it says "Warning: a counterfeit version of this item exists"
-- Check if images look like the originals, to find original images look on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) for example
-- Check if title or description of figure has any mistakes. Look for things like company name in title and be wary of generic anime figure text
-- Make sure the price isn't to low vs the normal price of the figure
-- Check location of figure, high chance bootleg regions are: China, Hong Kong, Taiwan
-- Make sure seller has good ratings
-- Real figures always come in a figure box
-### Videos
-- [How to Identify Bootleg Anime Figures](https://www.youtube.com/watch?v=kLjDr555yfE)
-- [REAL vs. FAKE Anime Figures](https://www.youtube.com/watch?v=nl9XX6j-Bjk)
-### Articles
-- [Ultimate Guide to Bootlegs](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures#:~:text=Look%20for%20stripes%20or%20for,known%20bootleg%20of%20the%20figure.)
