@@ -1,3 +1,47 @@
+# Table Of Contents
+
+
+
+# Some Terms [^](#Table-Of-Contents)
+Bootleg
+
+Proxy Shipper
+
+
+# Where To Buy Figures? [^](#Table-Of-Contents)
+
+The site MyFigureCollection has made quite a good list of their own, going over good sites to buy figures from approved by them. https://myfigurecollection.net/about/partners/
+
+
+|Sites|Info
+|:-:|:-:
+|[AmiAmi](https://www.amiami.com/eng/) (Buy)|✅Though the website can be quite buggy and orders taking quite long to ship, it still is one of the better places to get figures
+|[Hobby Galaxy](https://www.hobbygalaxy.com/)|
+|[Playasia](https://www.play-asia.com/toys/figures/14/719k)|
+|https://www.suruga-ya.jp/|
+|[Ukiyo Kumo](https://ukiyokumo.com/)|
+|[Akiba Soul](https://www.akibasoul.com/)|
+|[Solaris Japan](https://solarisjapan.com/)|
+|[Good Smile Online Shop](https://goodsmileshop.com/en/)|
+|[S.P.A.C.E](https://www.space-figuren.de/Animes-Mangas:::4685.html)|
+|[SU GO toys](https://sugotoys.com.au/shop/?filter_types=pvc-figure)|
+|[Navito World](https://www.navitoworld.com/collections)|
+|[Riot Games Figures](https://merch.riotgames.com/en-gb/category/collectibles?product_limit=54)|
+|[Anime Figure](https://anime-figure.com/figures)|
+|[Ebay](https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=anime+figures&_sacat=0&LH_TitleDesc=0&_odkw=animefigures&_osacat=0)|Bootleg risky
+|[Amazon](https://www.amazon.de)|Bootleg risky
+|Ali Express|⛔ Stay away! Almost all figures from here are terrile quality bootlegs
+
+
+# Proxy Shipper [^](#Table-Of-Contents)
+Sometimes stores in japan don't ship anywhere else and a proxy shipper is needed. Some good options for proxy shippers are:
+
+- https://zenmarket.jp/de/
+
+_Currency Coversion: 100€ = 105$ = 13.772¥_
+
+
+
 ## Channels
 - https://www.youtube.com/channel/UCZBQ82XvDAtOyDXaUOrmaOw
 - https://www.youtube.com/watch?v=ycGDR752fT0
@@ -7,7 +51,7 @@
 ## Resource Pages
 
 ## Websites to buy finished Figures
-- [AmiAmi](https://www.amiami.com/eng/) (Buy)
+
 
 <details>
 <summary>More AmiAmi Info</summary>
@@ -16,29 +60,10 @@ Order system is very bad, make sure things are really in the order basket/ are o
 
 </details>
 
-- [Hobby Galaxy](https://www.hobbygalaxy.com/)
-- [Playasia](https://www.play-asia.com/toys/figures/14/719k)
-- [MyFigureCollection](https://myfigurecollection.net/) (Figure DB)
-- [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/)
-- https://www.suruga-ya.jp/
-- [Ukiyo Kumo](https://ukiyokumo.com/)
-- [Akiba Soul](https://www.akibasoul.com/)
-- [Solaris Japan](https://solarisjapan.com/)
-- [Good Smile Online Shop](https://goodsmileshop.com/en/)
-- [S.P.A.C.E](https://www.space-figuren.de/Animes-Mangas:::4685.html)
-- [SU GO toys](https://sugotoys.com.au/shop/?filter_types=pvc-figure)
-- [Navito World](https://www.navitoworld.com/collections)
-- [Riot Games Figures](https://merch.riotgames.com/en-gb/category/collectibles?product_limit=54)
-- [Anime Figure](https://anime-figure.com/figures)
-- [Ebay](https://www.ebay.de/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=anime+figures&_sacat=0&LH_TitleDesc=0&_odkw=animefigures&_osacat=0) (bootleg risky)
-- [Amazon](https://www.amazon.de) (bootleg risky)
-- Don't use Ali Express!
+
+|[MyFigureCollection](https://myfigurecollection.net/) (Figure DB)|
 
 
-Sometimes stores are in japan and a proxy shipper is needed. Some good options for proxy shippers are:
-
-(100€ = 105$ = 13.772¥)
-- https://zenmarket.jp/de/
 
 ## How to Identify Bootleg Figures
 ### Tips
