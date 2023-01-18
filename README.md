@@ -1,4 +1,4 @@
-Don't forget to add information from your own experience with buying figures. (Just click edit and commit your changes)
+**Don't forget to add information from your own experience with buying figures (Just click edit and commit your changes).**
 
 
 # Table Of Contents
