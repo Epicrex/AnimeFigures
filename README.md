@@ -37,7 +37,7 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 |Ali Express|⛔ Stay away! Almost all figures from here are terrile quality bootlegs
 
 
-# How to Identify Bootleg Figures?
+# How to Identify Bootleg Figures? [^](#Table-Of-Contents)
 ### Tips
 - Look the figure up on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) and see if it says "Warning: a counterfeit version of this item exists"
 - Check if images look like the originals, to find original images look on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) for example
