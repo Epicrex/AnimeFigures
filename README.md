@@ -37,7 +37,7 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 
 |Sites|Info
 |:-:|:-:
-|[AmiAmi](https://www.amiami.com/eng/) (Buy)|✅ The website can be quite buggy and orders take quite long to ship, but it's still is one of the better places to get figures. _(In particular watch out for the order system. Make sure things are really in the order basket/ are ordered. And if other users buy a figure it can be taken from your basket. Package tracking updates are also bad.)_
+|[AmiAmi](https://www.amiami.com/eng/) (Buy)|✅ The website can be quite buggy and orders take quite long to ship, but it's still one of the better places to get figures. _(In particular watch out for the order system. Make sure things are really in the order basket/ are ordered. And if other users buy a figure it can be taken from your basket. Package tracking updates are also bad.)_
 |[Hobby Galaxy](https://www.hobbygalaxy.com/)|
 |[Playasia](https://www.play-asia.com/toys/figures/14/719k)|
 |https://www.suruga-ya.jp/|
