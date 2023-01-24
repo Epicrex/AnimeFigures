@@ -1,7 +1,7 @@
 **Don't forget to add information from your own experience with buying figures (Just click edit and commit your changes).**
 
 
-# Table Of Contents
+# Table Of Content
 
 - [General](#general-)
 - [Some Terms](#some-terms-)
@@ -10,11 +10,11 @@
 - [Proxy Shipper](#proxy-shipper-)
 - [Communities](#communities-)
 
-# General [^](#Table-Of-Contents)
+# General [^](#Table-Of-Content)
 
 [MyFigureCollection](https://myfigurecollection.net/) is an anime figure collecting community where people share imags of their figures. It is also a data base for figures and can help with finding new figures or even aid in avoiding bootlegs.
 
-# Some Terms [^](#Table-Of-Contents)
+# Some Terms [^](#Table-Of-Content)
 Bootleg:
 ```
 "Simply put, a bootleg is a figure that does not have any proper licensing or approval.
@@ -30,7 +30,7 @@ The proxy shipper needs to be in the country of the product for it to work.
 ```
 
 
-# Where To Buy Figures? [^](#Table-Of-Contents)
+# Where To Buy Figures? [^](#Table-Of-Content)
 
 The site MyFigureCollection has made quite a good list of their own, going over good sites to buy figures from approved by them. https://myfigurecollection.net/about/partners/
 
@@ -55,7 +55,7 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 |Ali Express|⛔ Stay away! Almost all figures from here are terrile quality bootlegs
 
 
-# How to Identify Bootleg Figures? [^](#Table-Of-Contents)
+# How to Identify Bootleg Figures? [^](#Table-Of-Content)
 ### Tips
 - Look the figure up on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) and see if it says "Warning: a counterfeit version of this item exists"
 - Check if images look like the originals, to find original images look on [MyFigureCollection approved figure shop list](https://myfigurecollection.net/about/partners/) for example
@@ -71,14 +71,14 @@ The site MyFigureCollection has made quite a good list of their own, going over 
 - [Ultimate Guide to Bootlegs](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures#:~:text=Look%20for%20stripes%20or%20for,known%20bootleg%20of%20the%20figure.)
 
 
-# Proxy Shipper [^](#Table-Of-Contents)
+# Proxy Shipper [^](#Table-Of-Content)
 Sometimes stores in japan don't ship anywhere else and a proxy shipper is needed. Some good options for proxy shippers (that can ship from japan) are:
 
 - https://zenmarket.jp/de/
 
 _Currency Coversion: 100€ = 105$ = 13.772¥_
 
-# Communities [^](#Table-Of-Contents)
+# Communities [^](#Table-Of-Content)
 
 ## Forums
 ## Channels
